@@ -93,6 +93,7 @@ for(var i = 0 ; i < 5 ; i++){
 }
 console.log(aAjax);
 
+
 var a = [1,2,3];
 
 /*
