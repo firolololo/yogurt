@@ -93,6 +93,8 @@ for(var i = 0 ; i < 5 ; i++){
 }
 console.log(aAjax);
 
+var a = [1,2,3];
+
 /*
 for(var i = 0 ; i < 5 ; i++){
     var task = (function(k){
